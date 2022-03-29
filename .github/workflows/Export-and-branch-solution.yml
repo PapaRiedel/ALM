@@ -25,7 +25,7 @@ Latest commit 2ee9bb7 on 2 Jul 2021
 @kkanakas@mikkelsen2000@davidjenni
 75 lines (65 sloc)  2.6 KB
    
-name: export-and-branch-solution
+name: Export-and-branch-solution
 # Export solution from DEV environment
 #  unpack it and prepare, commit and push a git branch with the changes
 
