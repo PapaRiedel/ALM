@@ -26,9 +26,9 @@ on:
 
 env:
 #edit your values here
-  ENVIRONMENT_URL: https://orgf443f028.crm4.dynamics.com
-  CLIENT_ID: da40d3e2-97de-4061-85dd-a0e392eca911
-  TENANT_ID: 2d15b601-9d9a-4c0b-896f-ace0662817bd
+  ENVIRONMENT_URL: 'https://orgf443f028.crm4.dynamics.com'
+  CLIENT_ID: 'da40d3e2-97de-4061-85dd-a0e392eca911'
+  TENANT_ID: '2d15b601-9d9a-4c0b-896f-ace0662817bd'
 
 
 jobs:
